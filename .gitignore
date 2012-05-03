@@ -1,0 +1,33 @@
+# Generated MOC, resource and UI files
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+
+# Qt Creator directories created under Windows
+Debug/
+Release/
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Windows-specific files
+Thumbs.db
+desktop.ini
+
+# Mac-specific files/directories
+.DS_Store
+
+# Editor Temporary files
+*~
+*.swp
+\#*#
